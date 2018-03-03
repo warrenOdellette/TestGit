@@ -13,6 +13,7 @@ with open('aminoacidSeq.txt') as f:
     data=f.read().split('\n')
 
 myPrint(data)
+print("hello world")
     
 
 
